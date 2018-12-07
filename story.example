@@ -1,0 +1,9 @@
+            public string id { get; set; }
+            public string name { get; set; }
+            public string content { get; set; }
+            public string[] choices;
+            public string[] choiceLead;
+            
+1;Elm;Hello world;Howdy!:Bye Elm:How are you;2:3:2
+2;Elm;I'm pretty good thanks for asking;Bye now!:That's it:That's how it works;3:3:3
+3;Elm;Okay Bye!;empty:empty:empty;-1:-1:-1
